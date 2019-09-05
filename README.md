@@ -1,6 +1,6 @@
 # Code for Radicals 2019
 
-Code for reproducing the key results of our paper: IDENTIFYING PREDICTIVE FEATURES OF ISLAMIST RADICALIZATION
+Code for reproducing the key results of our paper: Identifying predictive features of islamist radicalization
 
 Michaela Pfundmair, Jeremy Lefort-Besnard.
 
