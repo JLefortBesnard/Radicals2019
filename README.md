@@ -9,4 +9,4 @@ Please cite this paper when using the code for your research.
 
 You can clone this repository by:
 
-git clone https://github.com/JLefortBesnard/Radicals2019.git
+git clone https://github.com/JLefortBesnard/Radicals2020.git
